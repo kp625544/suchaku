@@ -23,7 +23,7 @@ This project is to be completed in stages.
          1.> To make an Operating System solely for the bot
 
 
-#For downloading dependencies
+#For Downloading dependencies
 
 sudo python2.7 -m pip install -r requirements.txt
 
